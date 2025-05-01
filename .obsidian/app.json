@@ -1,0 +1,9 @@
+{
+  "trashOption": "local",
+  "readableLineLength": false,
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01_Inbox",
+  "attachmentFolderPath": "03_Extra"
+}
