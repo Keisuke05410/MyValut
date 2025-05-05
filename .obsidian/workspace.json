@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Tech_Inbox/Introduction.md",
+                "file": "Tech/Tech_Inbox/MCP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "MCP"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Tech_Inbox/MCPとは.md",
+                "file": "Tech/Tech_Tutrial/Model Context Protocol Tutrial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCPとは"
+              "title": "Model Context Protocol Tutrial"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "2025-05-03"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Tech_Inbox/Introduction.md",
+                "file": "Tech/Tech_Tutrial/Model Context Protocol Tutrial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Introductionのアウトライン"
+              "title": "Model Context Protocol Tutrialのアウトライン"
             }
           },
           {
@@ -229,11 +230,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cb7361714abcb06b",
+  "active": "d5a5af94b2508daf",
   "lastOpenFiles": [
-    "Tech/Tech_Inbox/MCPとは.md",
     "Tech/Tech_Inbox/Introduction.md",
-    "Tech/Tech_Tutrial/Model Context Protocol.md",
+    "Tech/Tech_Tutrial/Model Context Protocol Tutrial.md",
+    "Tech/Tech_Inbox/MCP.md",
     "Diary/2025/Weekly/2025-W18.md",
     "Diary/2025/Daily/2025-05-03.md",
     "Diary/2025/Daily/2025-05-02.md",

@@ -6,4 +6,4 @@ tags:
 aliases: 
 url:
 ---
-![[MCPとは]]
+![[MCP]]
