@@ -4,23 +4,27 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "01_Inbox/Tech_Inbox",
+      "folder": "Tech/Tech_Inbox",
       "tag": "#Tech",
-      "pattern": ""
-    },
-    {
-      "folder": "01_Inbox/Life_inbox",
-      "tag": "#Life",
       "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
   "excluded_folder": [
     {
-      "folder": "04_Templates"
+      "folder": "_Templates"
     },
     {
-      "folder": "10_MOC"
+      "folder": "_Extra"
+    },
+    {
+      "folder": "Tech/Tech_Tutrial"
+    },
+    {
+      "folder": "Tech/Tech_MOC"
+    },
+    {
+      "folder": "Tech/Tech_Book"
     }
   ]
 }

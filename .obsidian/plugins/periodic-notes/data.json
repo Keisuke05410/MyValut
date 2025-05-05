@@ -3,29 +3,32 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": true,
   "daily": {
-    "folder": "02_Daily",
+    "folder": "Diary/2025/Daily",
     "template": "04_Templates/Daily",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "folder": "02_Daily/Weekly",
+    "folder": "Diary/2025/Weekly",
     "template": "04_Templates/Weekly",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": false
   },
   "quarterly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": false
   },
   "yearly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": false
   }
 }

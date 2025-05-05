@@ -1,0 +1,36 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Introduction",
+      "path": "Tech/Tech_Inbox/Introduction.md"
+    },
+    {
+      "basename": "MCPとは",
+      "path": "Tech/Tech_Inbox/MCPとは.md"
+    },
+    {
+      "basename": "Model Context Protocol",
+      "path": "Tech/Tech_Tutrial/Model Context Protocol.md"
+    },
+    {
+      "basename": "2025-W18",
+      "path": "Diary/2025/Weekly/2025-W18.md"
+    },
+    {
+      "basename": "2025-05-03",
+      "path": "Diary/2025/Daily/2025-05-03.md"
+    },
+    {
+      "basename": "2025-05-02",
+      "path": "Diary/2025/Daily/2025-05-02.md"
+    }
+  ],
+  "omittedPaths": [
+    ""
+  ],
+  "omittedTags": [
+    ""
+  ],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

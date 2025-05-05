@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "04_Templates",
+  "templates_folder": "_Templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "Tech/Tech_Tutrial",
+      "template": "_Templates/Tech_Tutrial.md"
+    },
+    {
+      "folder": "Tech/Tech_Book",
+      "template": "_Templates/Tech_Book.md"
     }
   ],
   "enable_file_templates": false,

@@ -1,1 +1,0 @@
-<< [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|昨日]]  | [[<% tp.date.now("GGGG-[W]WW") %>|今週]] |  [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>|翌日]] >>

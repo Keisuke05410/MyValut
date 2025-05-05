@@ -5,5 +5,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "01_Inbox",
-  "attachmentFolderPath": "03_Extra"
+  "attachmentFolderPath": "03_Extra",
+  "vimMode": true
 }

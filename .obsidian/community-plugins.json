@@ -4,10 +4,13 @@
   "quickadd",
   "calendar",
   "obsidian-auto-link-title",
-  "note-refactor-obsidian",
   "auto-note-mover",
   "obsidian-linter",
   "templater-obsidian",
   "periodic-notes",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-vimrc-support",
+  "recent-files-obsidian",
+  "highlightr-plugin",
+  "obsidian-icon-folder"
 ]
