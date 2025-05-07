@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-05-07",
+      "path": "Diary/2025/Daily/2025-05-07.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Tech/Tech_Inbox/Untitled.md"
+    },
+    {
+      "basename": "Daily",
+      "path": "_Templates/Daily.md"
+    },
+    {
+      "basename": "2025-05-02",
+      "path": "Diary/2025/Daily/2025-05-02.md"
+    },
+    {
+      "basename": "2025-W19",
+      "path": "Diary/2025/Weekly/2025-W19.md"
+    },
+    {
+      "basename": "Weekly",
+      "path": "_Templates/Weekly.md"
+    },
+    {
       "basename": "2025-05-03",
       "path": "Diary/2025/Daily/2025-05-03.md"
     },
@@ -11,10 +35,6 @@
     {
       "basename": "Model Context Protocol Tutrial",
       "path": "Tech/Tech_Tutrial/Model Context Protocol Tutrial.md"
-    },
-    {
-      "basename": "2025-05-02",
-      "path": "Diary/2025/Daily/2025-05-02.md"
     },
     {
       "basename": "Introduction",
@@ -32,5 +52,6 @@
     ""
   ],
   "updateOn": "file-open",
-  "omitBookmarks": false
+  "omitBookmarks": false,
+  "maxLength": null
 }

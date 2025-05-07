@@ -1,0 +1,6 @@
+---
+tags:
+  - Tech
+  - Vim
+aliases:
+---

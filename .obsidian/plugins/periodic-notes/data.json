@@ -4,13 +4,13 @@
   "hasMigratedWeeklyNoteSettings": true,
   "daily": {
     "folder": "Diary/2025/Daily",
-    "template": "04_Templates/Daily",
+    "template": "_Templates/Daily.md",
     "enabled": true
   },
   "weekly": {
     "format": "",
     "folder": "Diary/2025/Weekly",
-    "template": "04_Templates/Weekly",
+    "template": "_Templates/Weekly.md",
     "enabled": true
   },
   "monthly": {
