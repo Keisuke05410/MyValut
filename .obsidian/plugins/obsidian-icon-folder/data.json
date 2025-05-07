@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBook"
+      "LiLayoutTemplate",
+      "LiBookTemplate",
+      "LiTemplaterIcon",
+      "LiImage",
+      "LiLeaf"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +34,9 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Diary": "LiBook"
+  "Diary": "LiBook",
+  "Tech": "LiComputer",
+  "Life": "LiLeaf",
+  "_Extra": "LiImage",
+  "_Templates": "LiLayoutTemplate"
 }
