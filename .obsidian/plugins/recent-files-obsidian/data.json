@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-05-03",
+      "path": "Diary/2025/Daily/2025-05-03.md"
+    },
+    {
+      "basename": "MCP",
+      "path": "Tech/Tech_Inbox/MCP.md"
+    },
+    {
       "basename": "Model Context Protocol Tutrial",
       "path": "Tech/Tech_Tutrial/Model Context Protocol Tutrial.md"
     },
@@ -13,16 +21,8 @@
       "path": "Tech/Tech_Inbox/Introduction.md"
     },
     {
-      "basename": "MCP",
-      "path": "Tech/Tech_Inbox/MCP.md"
-    },
-    {
       "basename": "2025-W18",
       "path": "Diary/2025/Weekly/2025-W18.md"
-    },
-    {
-      "basename": "2025-05-03",
-      "path": "Diary/2025/Daily/2025-05-03.md"
     }
   ],
   "omittedPaths": [

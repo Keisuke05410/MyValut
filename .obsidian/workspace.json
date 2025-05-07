@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "43b282d60f05dc84",
+        "id": "11188b4f11b91f48",
         "type": "tabs",
         "children": [
           {
-            "id": "58e6d505aeb1e51d",
+            "id": "015b16992e69fa8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Tech_Inbox/MCP.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MCP"
-            }
-          },
-          {
-            "id": "d5a5af94b2508daf",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Life/Life_Inbox/.keep",
-                "bFile": "Life/Life_Inbox/.keep",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .keep"
-            }
-          },
-          {
-            "id": "f7ed22afb1f17025",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2025/Daily/2025-05-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-03"
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,15 +194,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d5a5af94b2508daf",
+  "active": "015b16992e69fa8e",
   "lastOpenFiles": [
+    "Diary/2025/Daily/2025-05-03.md",
+    "Tech/Tech_Inbox/MCP.md",
     "Tech/Tech_MOC/keep.md",
     "Tech/Tech_Tutrial/Model Context Protocol Tutrial.md",
     "Diary/2025/Daily/2025-05-02.md",
     "Tech/Tech_Inbox/Introduction.md",
-    "Tech/Tech_Inbox/MCP.md",
     "Diary/2025/Weekly/2025-W18.md",
-    "Diary/2025/Daily/2025-05-03.md",
     "_Templates/Tech_Tutrial.md",
     "_Templates/Tech_Book.md",
     "_Templates/Tech_Inbox.md",
