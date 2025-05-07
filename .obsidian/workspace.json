@@ -25,14 +25,14 @@
             "id": "d5a5af94b2508daf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Tech/Tech_Tutrial/Model Context Protocol Tutrial.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Life/Life_Inbox/.keep",
+                "bFile": "Life/Life_Inbox/.keep",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Model Context Protocol Tutrial"
+              "icon": "diff",
+              "title": "Diff: .keep"
             }
           },
           {
@@ -133,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_Templates/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Dailyへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -152,12 +151,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_Templates/Daily.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Dailyからのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
@@ -181,13 +179,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/Tech_Tutrial/Model Context Protocol Tutrial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Model Context Protocol Tutrialのアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -232,12 +229,13 @@
   },
   "active": "d5a5af94b2508daf",
   "lastOpenFiles": [
-    "Tech/Tech_Inbox/Introduction.md",
+    "Tech/Tech_MOC/keep.md",
     "Tech/Tech_Tutrial/Model Context Protocol Tutrial.md",
+    "Diary/2025/Daily/2025-05-02.md",
+    "Tech/Tech_Inbox/Introduction.md",
     "Tech/Tech_Inbox/MCP.md",
     "Diary/2025/Weekly/2025-W18.md",
     "Diary/2025/Daily/2025-05-03.md",
-    "Diary/2025/Daily/2025-05-02.md",
     "_Templates/Tech_Tutrial.md",
     "_Templates/Tech_Book.md",
     "_Templates/Tech_Inbox.md",

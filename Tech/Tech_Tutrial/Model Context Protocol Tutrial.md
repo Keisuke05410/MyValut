@@ -9,4 +9,4 @@ url: https://modelcontextprotocol.io/
 ---
 # [[Introduction]]
 
-
+[[MCP]]に関する概要
