@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3bfb4db1f0f7ca6c",
+        "id": "becc0e42d9d023cc",
         "type": "tabs",
         "children": [
           {
-            "id": "3a39369d7cf2d9db",
+            "id": "f6465583cbdd8ff9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Templates/Daily.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Daily"
-            }
-          },
-          {
-            "id": "b388eef4d903b812",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,8 +80,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,11 +195,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b388eef4d903b812",
+  "active": "3971419809438af1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "_Templates/Daily.md",
     "Life/Life_Inbox/超質問力1.md",
+    "_Templates/Daily.md",
+    "conflict-files-obsidian-git.md",
     "Diary/2025/Daily/2025-05-12.md",
     "Diary/2025/Daily/2025-05-09.md",
     "Diary/2025/Daily/2025-05-10.md",
