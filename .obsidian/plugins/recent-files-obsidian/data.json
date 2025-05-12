@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-05-09",
+      "path": "Diary/2025/Daily/2025-05-09.md"
+    },
+    {
+      "basename": "vim-easymotion",
+      "path": "Tech/Tech_Inbox/vim-easymotion.md"
+    },
+    {
+      "basename": "vim-surround",
+      "path": "Tech/Tech_Inbox/vim-surround.md"
+    },
+    {
+      "basename": "2025-05-08",
+      "path": "Diary/2025/Daily/2025-05-08.md"
+    },
+    {
       "basename": "2025-05-07",
       "path": "Diary/2025/Daily/2025-05-07.md"
+    },
+    {
+      "basename": "2025-05-02",
+      "path": "Diary/2025/Daily/2025-05-02.md"
     },
     {
       "basename": "Untitled",
@@ -11,10 +31,6 @@
     {
       "basename": "Daily",
       "path": "_Templates/Daily.md"
-    },
-    {
-      "basename": "2025-05-02",
-      "path": "Diary/2025/Daily/2025-05-02.md"
     },
     {
       "basename": "2025-W19",

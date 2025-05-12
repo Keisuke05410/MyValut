@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2025/Daily/2025-05-07.md",
+                "file": "Diary/2025/Daily/2025-05-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-07"
+              "title": "2025-05-09"
             }
           }
         ]
@@ -105,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech/Tech_Inbox/vim-easymotion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "vim-easymotionへのバックリンク"
             }
           },
           {
@@ -123,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diary/2025/Daily/2025-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "2025-05-09からのアウトゴーイングリンク"
             }
           },
           {
@@ -199,12 +201,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3a39369d7cf2d9db",
+  "active": "cb7361714abcb06b",
   "lastOpenFiles": [
-    "Tech/Tech_Inbox/Untitled.md",
+    "Tech/Tech_Inbox/vim-easymotion.md",
+    "Diary/2025/Daily/2025-05-09.md",
+    "Tech/Tech_Inbox/vim-surround.md",
+    "Diary/2025/Daily/2025-05-08.md",
     "Diary/2025/Daily/2025-05-07.md",
-    "_Templates/Daily.md",
     "Diary/2025/Daily/2025-05-02.md",
+    "Tech/Tech_Inbox/Untitled.md",
+    "_Templates/Daily.md",
     "Diary/2025/Weekly/2025-W19.md",
     "2025-W19.md",
     "_Templates/Weekly.md",
@@ -232,9 +238,6 @@
     "Timestamps/2025/05-5月/2025-05-02-金曜日.md",
     "Timestamps/2025/05-5月",
     "Timestamps/2025/04-4月/2025-04-30-水曜日.md",
-    "01_Inbox/← 前日.md",
-    "01_Inbox/Tech_Inbox/無題のファイル.md",
-    "Welcome.md",
-    "01_Inbox/無題のファイル 1.md"
+    "01_Inbox/← 前日.md"
   ]
 }
