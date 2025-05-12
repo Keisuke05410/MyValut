@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "Daily"
             }
-          },
-          {
-            "id": "fb40ceea3ffca51e",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/plugins/recent-files-obsidian/data.json",
-                "bFile": ".obsidian/plugins/recent-files-obsidian/data.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: data.json"
-            }
-          },
-          {
-            "id": "dcc2336ae32aa82c",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Templates/Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "アウトゴーイングリンク"
+              "title": "Dailyからのアウトゴーイングリンク"
             }
           },
           {
@@ -229,7 +201,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fb40ceea3ffca51e",
+  "active": "3a39369d7cf2d9db",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "_Templates/Daily.md",
